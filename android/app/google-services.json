@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "206334992637",
+    "firebase_url": "https://food-ordering-app-5c822-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "food-ordering-app-5c822",
+    "storage_bucket": "food-ordering-app-5c822.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206334992637:android:46ca27c4f8d84d02b9de94",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206334992637-7itgrea8el252c25v3vki35qp2d1le6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_2",
+            "certificate_hash": "9619e4babda60b39c72789abe180a7fd3d39a1a3"
+          }
+        },
+        {
+          "client_id": "206334992637-k3sojj822lmetuotlmvaf49lljhieujm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbXShj5qXqcPKMRsSKyqrE6RG-h7RDclo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206334992637-k3sojj822lmetuotlmvaf49lljhieujm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206334992637-rd1kq0ion0lkchb02kl9slnluvbb8qbk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
